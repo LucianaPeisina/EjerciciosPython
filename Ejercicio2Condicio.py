@@ -8,4 +8,4 @@ if (int(multi) == 100):
     print(multi, "es igual que 100")
 if (int(multi) <100):
     print(multi, "es menor que 100")
-print("Gracias por usar la aplicación")
+print("Gracias por usar la aplicación ")
